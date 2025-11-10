@@ -1,0 +1,8 @@
+{"id": "en_001", "sentence": "The cat sat on the mat.", "label": 1, "language": "en", "content_effect": 0, "content_id": "content_001"}
+{"id": "es_001", "sentence": "El gato se sentó en la alfombra.", "label": 1, "language": "es", "content_effect": 0, "content_id": "content_001"}
+{"id": "en_002", "sentence": "The building fell upwards into the sky.", "label": 0, "language": "en", "content_effect": 1, "content_id": "content_002"}
+{"id": "es_002", "sentence": "El edificio cayó hacia arriba en el cielo.", "label": 0, "language": "es", "content_effect": 1, "content_id": "content_002"}
+{"id": "en_003", "sentence": "She drank a glass of water.", "label": 1, "language": "en", "content_effect": 0, "content_id": "content_003"}
+{"id": "en_004", "sentence": "He ate the liquid book with a fork.", "label": 0, "language": "en", "content_effect": 1, "content_id": "content_004"}
+{"id": "fr_001", "sentence": "Le chat s'est assis sur le tapis.", "label": 1, "language": "fr", "content_effect": 0, "content_id": "content_001"}
+{"id": "en_005", "sentence": "The sun rises in the east.", "label": 1, "language": "en", "content_effect": 0, "content_id": "content_005"}
